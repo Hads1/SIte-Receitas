@@ -1,2 +1,2 @@
-# site-receitas
-aulasgit
+# Web-receitas
+Site de estudos pra WEB
